@@ -12,7 +12,8 @@ redirect_from:
 ## [Full CV](../files/CV-JIanli Cheng.pdf)
 
 ## Professional Appointments
-Postdoctoral Researcher in Lawrence Berkeley National Lab （2018-Now）
+Postdoctoral Researcher in Lawrence Berkeley National Lab（2018-Now）
+* Advisor: Kristin A. Persson
 
 Education
 ======
