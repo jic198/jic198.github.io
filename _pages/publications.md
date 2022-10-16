@@ -14,3 +14,9 @@ author_profile: true
 24\. **J. Cheng**, E. Sivonxay, and K. Persson, "Evaluation of Amorphous Oxide Coatings for High-voltage Li-ion Battery Applications using a First-Principles Framework." *ACS Appl. Mater. Interfaces*, 12, 31, 35748, (2020). [[doi](https://doi.org/10.1021/acsami.0c10000)]
 
 23\. **J. Cheng**, L. Mu, C. Wang, Z. Yang, H. Xin, F. Lin, and K. Persson, "Enhancing Surface Oxygen Retention through Theory-guided Doping Selection in Layered Ni-rich Cathodes for Next-generation Lithium-ion Batteries." *J. Mater. Chem. A*, 8, 23293, (2020). [[doi](https://doi.org/10.1039/D0TA07706B)]
+
+22\. B. Xia, **J. Cheng**, M. Arengo, N. Rajput, Y. Janssen, J. Neilson, K. Persson, and J. Simonson, "Trigonal polymorph of Li2MnO3." *Phys. Rev. Materials*, 4, 085401, (2020). [[doi](https://doi.org/10.1103/PhysRevMaterials.4.085401)]
+
+21\. Y. Wang, Z. Zhang, **J. Cheng**, Q. Zhang, W. Tang and K. Yang, "Creating a two-dimensional hole gas in a polar/polar LaAlO3/KTaO3 perovskite heterostructure." *J. Mater. Chem. C*, 8, 14230, (2020). [[doi](https://doi.org/10.1039/D0TC03439H)]
+
+20\. J. Ding, **J. Cheng**, F. Dogan, Y. Li, W. Lin, Y. Yao, A. Manchon, K. Yang, T. Wu, "Two-Dimensional Electron Gas at Spinel/Perovskite Interface: Interplay between Polar Catastrophe and Structural Defects." *ACS Appl. Mater. Interfaces*, 12, 42982, (2020). [[doi](https://doi.org/10.1021/acsami.0c13337)]
