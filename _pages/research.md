@@ -14,7 +14,11 @@ for new functional materials and design principles.
 
  <img src="/images/cathode_coating.jpg" alt="" width="500"/>
 
-## Theory-driven 3-dimensional tarted doping to design next-generation cathode materials for Li-ion batteries
+Future improvements in LIBs envision the use of lithium metal as the anode paired with high energy density cathode materials, 
+such as high nickel layered oxides. However, these electrodes frequently experience surface instability with associated 
+performance degradation under extended cycling.
+
+## Theory-driven 3-dimensional targeted doping to design next-generation cathode materials for Li-ion batteries
 
  <img src="/images/targeted_doping.jpg" alt="" width="500"/>
 
