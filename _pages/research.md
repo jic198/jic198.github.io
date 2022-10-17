@@ -38,6 +38,23 @@ Coatings for High-voltage Li-ion Battery Applications using a First-Principles F
 
  <img src="/images/targeted_doping.jpg" alt="" width="800"/>
 
+Apart from the surface instability, high energy-density cathodes also suffer from bulk instability which results from detrimental
+phase transformations and lattice contraction, especially at a high charge state. These two factors contribute to strain-induced 
+structural damages in the cathode particles and associated performance degradation during cycling. Therefore, it is crucial 
+to improve the phase stability of cathode bulk structures to achieve high energy density Li-ion batteries.
+
+I am working on a theory-driven three-dimensional targeted doping approach to stabilize both cathode surface and bulk. 
+My theoretical work in identifying effective surface dopants to mitigate the oxygen loss from the nickel-rich cathode 
+surface guided our experimental collaborators to develop a novel Sb-doped LiNiO2 cathode with improved cycling performance.
+To predict bulk dopants that can mitigate phase transformations, I used a cluster-based Monte Carlo simulation approach to 
+calculate temperature-composition phase diagrams. This work advances the understanding of phase transformations 
+in Ni-rich layered cathodes Currently, I am developing materials design principles governing doping selections to achieve 
+high energy-density LIBs with a stable and long-term cycling performance
+
+<span style="color:steelblue; font-size:0.8em;">**J. Cheng**, L. Mu, C. Wang, Z. Yang, H. Xin, F. Lin, and K. Persson, 
+"Enhancing Surface Oxygen Retention through Theory-guided Doping Selection in Layered Ni-rich Cathodes for Next-generation 
+Lithium-ion Batteries." *J. Mater. Chem. A*, 8, 23293, (2020). [[doi](https://doi.org/10.1039/D0TA07706B)]</span>
+
 ## Aimsgb: generate periodic grain boundary structures
 
  <img src="/images/aimsgb.jpg" alt="" width="500"/>
