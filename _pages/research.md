@@ -27,7 +27,7 @@ I am developing machine-learning interatomic potentials to study ionic diffusion
 coatings.
 
 <span style="color:steelblue; font-size:0.8em;">**J. Cheng**, Kara D. Fong, Kristin A. Persson, "Materials Design Principles 
-of Amorphous Cathode Coatings for Lithium-ion Battery Applications." *J. Mater. Chem. A*, (2022).
+of Amorphous Cathode Coatings for Lithium-ion Battery Applications." *J. Mater. Chem. A*, 10, 22245, (2022).
 [[doi](https://doi.org/10.1039/D2TA06051E)]</span>
 
 <span style="color:steelblue; font-size:0.8em;">**J. Cheng**, E. Sivonxay, and K. Persson, "Evaluation of Amorphous Oxide 
