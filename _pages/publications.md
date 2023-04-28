@@ -7,7 +7,7 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=9TrW83wAAAAJ&hl=en)
 
-27\. **J. Cheng**, Bin Ouyang, Kristin A. Persson, "Mitigating the high-charge detrimental phase transformation in LiNiO2 using doping engineering." *ACS Energy Lett.*, Accepted.
+27\. **J. Cheng**, Bin Ouyang, Kristin A. Persson, "Mitigating the high-charge detrimental phase transformation in LiNiO2 using doping engineering." *ACS Energy Lett.*, Accepted. [[doi](https://doi.org/10.1021/acsenergylett.3c00169)]
 
 26\. **J. Cheng**, Kara D. Fong, Kristin A. Persson, "Materials Design Principles of Amorphous Cathode Coatings for Lithium-ion Battery Applications." *J. Mater. Chem. A*, 10, 22245, (2022). [[doi](https://doi.org/10.1039/D2TA06051E)]
 
