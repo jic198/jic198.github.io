@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=9TrW83wAAAAJ&hl=en)
+[Google Scholar Profile](https://scholar.google.com/citations?user=SF2UqAUAAAAJ&hl=en)
 
 27\. **J. Cheng**, Bin Ouyang, Kristin A. Persson, "Mitigating the high-charge detrimental phase transformation in LiNiO2 using doping engineering." *ACS Energy Lett.*, Accepted. [[doi](https://doi.org/10.1021/acsenergylett.3c00169)]
 
