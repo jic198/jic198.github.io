@@ -12,7 +12,8 @@ redirect_from:
 ## [Full CV](../files/CV-JIanli Cheng.pdf)
 
 ## Professional Appointments
-Postdoctoral Researcher in Lawrence Berkeley National Lab（2018-Now）
+Senior Scientist at Schrödinger, Inc. (2023-Now)
+Postdoctoral Researcher in Lawrence Berkeley National Lab（2018-2023）
 * Advisor: Kristin A. Persson
 
 Education
